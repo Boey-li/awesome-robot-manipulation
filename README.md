@@ -1,6 +1,6 @@
 # Awesome Robot Manipulation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A (self-learning :P) list of awesome learning-based robotic manipulation resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
+A (self-learning :P) list of awesome learning-based robotic manipulation resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision). 
 
 ## Table of Contents
 - [Awesome Lists](#awesome-lists)
@@ -51,11 +51,8 @@ A (self-learning :P) list of awesome learning-based robotic manipulation resourc
 
 ## LLM Robotics
 
-### Language for Planning
-
-### Program Synthesis for Embodied Agents
-
 - [Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition](https://www.cs.columbia.edu/~huy/scalingup/) Huy Ha, Pete Florence, Shuran Song, CoRL 2023. 
+- [GenSim: Generating Robotic Simulation Tasks via Large Language Models](https://liruiw.github.io/gensim/) Lirui Wang et al, Arxiv 2023. 
 
 ## Foundation Models for Robotics
 
@@ -68,8 +65,8 @@ A (self-learning :P) list of awesome learning-based robotic manipulation resourc
 
 ## Simulation
 
-- [Nvidia FleX](https://gameworksdocs.nvidia.com/FleX/1.2/lib_docs/manual.html) | [PyFleX](https://github.com/YunzhuLi/PyFleX). 
-- [Taichi](https://github.com/taichi-dev/taichi_elements).
+- [Nvidia FleX](https://gameworksdocs.nvidia.com/FleX/1.2/lib_docs/manual.html) | [PyFleX](https://github.com/YunzhuLi/PyFleX). Particle-based Simulation (PBD).
+- [Taichi](https://github.com/taichi-dev/taichi_elements). (MPM)
 - [Nvidia Warp](https://github.com/NVIDIA/warp).
 
 ## Blogs
