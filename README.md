@@ -8,9 +8,10 @@ A (self-learning :P) list of awesome learning-based robotic manipulation resourc
 - [Benchmark and Dataset](#benchmark-and-dataset)
 - [Deformable Object Manipulation](#deformable-object-manipulation)
 - [Sim2Real](#sim2real)
-- [LLM-based Planning](#llm-based-planning)
+- [LLM for Robotics](#llm-for-robotics)
 - [Foundation Models for Robotics](#foundation-models-for-robotics)
 - [Representation Learning](#representation-learning)
+- [Reasoning](#reasoning)
 - [Simulation](#simulation)
 - [Blogs](#blogs)
 
@@ -28,6 +29,7 @@ A (self-learning :P) list of awesome learning-based robotic manipulation resourc
 ## Benchmark and Dataset
 
 - [SoftGym: Benchmarking Deep Reinforcement Learning for Deformable Object Manipulation](https://sites.google.com/view/softgym/home), Lin et al, CoRL 2020. 
+- [Physion++: Evaluating Physical Scene Understanding that Requires Online Inference of Different Physical Properties](https://dingmyu.github.io/physion_v2/), Hsiao-Yu Tung, Mingyu Ding, et al., Arxive 2023. 
 
 ## Deformable Object Manipulation
 
@@ -49,7 +51,7 @@ A (self-learning :P) list of awesome learning-based robotic manipulation resourc
 
 - [PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics](https://xpandora.github.io/PhysGaussian/) Xie et al., Arxiv 2023. 
 
-## LLM Robotics
+## LLM for Robotics
 
 - [Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition](https://www.cs.columbia.edu/~huy/scalingup/) Huy Ha, Pete Florence, Shuran Song, CoRL 2023. 
 - [GenSim: Generating Robotic Simulation Tasks via Large Language Models](https://liruiw.github.io/gensim/) Lirui Wang et al, Arxiv 2023. 
@@ -62,6 +64,10 @@ A (self-learning :P) list of awesome learning-based robotic manipulation resourc
 
 - [Learning Particle Dynamics for Manipulating Rigid Bodies, Deformable Objects, and Fluids](http://dpi.csail.mit.edu/) Yunzhu Li et al, ICLR 2019.
 - [Dynamic-Resolution Model Learning for Object Pile Manipulation](https://robopil.github.io/dyn-res-pile-manip/) Yixuan Wang et al, RSS 2023. 
+
+## Reasoning
+
+- [DensePhysNet: Learning Dense Physical Object Representations via Multi-step Dynamic Interactions](https://www.zhenjiaxu.com/DensePhysNet/) Zhenjia Xu et al, RSS 2019. 
 
 ## Simulation
 
