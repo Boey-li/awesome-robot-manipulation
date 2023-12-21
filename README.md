@@ -20,6 +20,8 @@ A (self-learning :P) list of awesome learning-based robotic manipulation resourc
 
 - [Awesome 3D Gaussian Splatting Resources](https://github.com/MrNeRF/awesome-3D-gaussian-splatting). 
 - [Diffusion Literatures for Robitics](https://github.com/mbreuss/diffusion-literature-for-robotics). 
+- [LLM for Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics). 
+- [NeRF for Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics).
 
 ## Survey
 
