@@ -32,6 +32,7 @@ A (self-learning :P) list of awesome learning-based robotic manipulation resourc
 
 - [SoftGym: Benchmarking Deep Reinforcement Learning for Deformable Object Manipulation](https://sites.google.com/view/softgym/home), Lin et al, CoRL 2020. 
 - [Physion++: Evaluating Physical Scene Understanding that Requires Online Inference of Different Physical Properties](https://dingmyu.github.io/physion_v2/), Hsiao-Yu Tung, Mingyu Ding, et al., Arxive 2023. 
+- [ClothesNet: An Information-Rich 3D Garment Model Repository with Simulated Clothes Environment](https://sites.google.com/view/clothesnet/) Bingyang Zhou et al., ICCV 2023. 
 
 ## Deformable Object Manipulation
 
@@ -52,6 +53,7 @@ A (self-learning :P) list of awesome learning-based robotic manipulation resourc
 ## Sim2Real
 
 - [PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics](https://xpandora.github.io/PhysGaussian/) Xie et al., Arxiv 2023. 
+- [SoftMAC: Differentiable Soft Body Simulation with Forecast-based Contact Model and Two-way Coupling with Articulated Rigid Bodies and Clothes](https://sites.google.com/view/softmac) Min Liu, Gang Yang, Siyuan Luo, Chen Yu, Lin Shao, Arxiv 2023. 
 
 ## LLM for Robotics
 
@@ -75,7 +77,10 @@ A (self-learning :P) list of awesome learning-based robotic manipulation resourc
 
 - [Nvidia FleX](https://gameworksdocs.nvidia.com/FleX/1.2/lib_docs/manual.html) | [PyFleX](https://github.com/YunzhuLi/PyFleX). Particle-based Simulation (PBD).
 - [Taichi](https://github.com/taichi-dev/taichi_elements). (MPM)
+- [SAPIEN](https://sapien.ucsd.edu/). 
 - [Nvidia Warp](https://github.com/NVIDIA/warp).
+- [Nvidia Isaac Sim](https://docs.omniverse.nvidia.com/isaacsim/latest/index.html). 
+- [Nvidia Omniverse](https://www.nvidia.com/en-us/omniverse/). 
 
 ## Blogs
 
