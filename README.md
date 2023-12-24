@@ -59,11 +59,11 @@ A (self-learning :P) list of awesome learning-based robotic manipulation resourc
 
 - [Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition](https://www.cs.columbia.edu/~huy/scalingup/) Huy Ha, Pete Florence, Shuran Song, CoRL 2023. 
 - [GenSim: Generating Robotic Simulation Tasks via Large Language Models](https://liruiw.github.io/gensim/) Lirui Wang et al, Arxiv 2023. 
-- [RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation](https://robogen-ai.github.io/) Yufei Wang, Zhou Xian, Feng Chen et al., Arxiv 2023.
 
 ## Foundation Models for Robotics
 
 - [Octo: An Open-Source Generalist Robot Policy](https://octo-models.github.io/), Ghosh et al., Arxiv 2023.  
+- [RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation](https://robogen-ai.github.io/) Yufei Wang, Zhou Xian, Feng Chen et al., Arxiv 2023.
 
 ## Representation Learning
 
