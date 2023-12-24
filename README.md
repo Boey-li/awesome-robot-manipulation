@@ -33,6 +33,7 @@ A (self-learning :P) list of awesome learning-based robotic manipulation resourc
 - [SoftGym: Benchmarking Deep Reinforcement Learning for Deformable Object Manipulation](https://sites.google.com/view/softgym/home), Lin et al, CoRL 2020. 
 - [Physion++: Evaluating Physical Scene Understanding that Requires Online Inference of Different Physical Properties](https://dingmyu.github.io/physion_v2/), Hsiao-Yu Tung, Mingyu Ding, et al., Arxive 2023. 
 - [ClothesNet: An Information-Rich 3D Garment Model Repository with Simulated Clothes Environment](https://sites.google.com/view/clothesnet/) Bingyang Zhou et al., ICCV 2023. 
+- [PlasticineLab: A Soft-Body Manipulation Benchmark with Differentiable Physics](https://plasticinelab.csail.mit.edu/) Zhiao Huang et al., ICLR 2021.
 
 ## Deformable Object Manipulation
 
@@ -48,17 +49,17 @@ A (self-learning :P) list of awesome learning-based robotic manipulation resourc
 - [RoboCraft: Learning to See, Simulate, and Shape Elasto-Plastic Objects with Graph Networks](http://hxu.rocks/robocraft/), Shi et al, RSS 2022.
 - [RoboCook: Long-Horizon Elasto-Plastic Object Manipulation with Diverse Tools](https://hshi74.github.io/robocook/), Shi et al, CoRL 2023. 
 
-### Rope
-
 ## Sim2Real
 
 - [PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics](https://xpandora.github.io/PhysGaussian/) Xie et al., Arxiv 2023. 
 - [SoftMAC: Differentiable Soft Body Simulation with Forecast-based Contact Model and Two-way Coupling with Articulated Rigid Bodies and Clothes](https://sites.google.com/view/softmac) Min Liu, Gang Yang, Siyuan Luo, Chen Yu, Lin Shao, Arxiv 2023. 
+- [DiffVL: Scaling Up Soft Body Manipulation using Vision-Language Driven Differentiable Physics](https://sites.google.com/view/diffvl/home) Zhiao Huang, Feng Chen, et al., NeuRIps 2023. 
 
 ## LLM for Robotics
 
 - [Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition](https://www.cs.columbia.edu/~huy/scalingup/) Huy Ha, Pete Florence, Shuran Song, CoRL 2023. 
 - [GenSim: Generating Robotic Simulation Tasks via Large Language Models](https://liruiw.github.io/gensim/) Lirui Wang et al, Arxiv 2023. 
+- [RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation](https://robogen-ai.github.io/) Yufei Wang, Zhou Xian, Feng Chen et al., Arxiv 2023.
 
 ## Foundation Models for Robotics
 
@@ -72,6 +73,9 @@ A (self-learning :P) list of awesome learning-based robotic manipulation resourc
 ## Reasoning
 
 - [DensePhysNet: Learning Dense Physical Object Representations via Multi-step Dynamic Interactions](https://www.zhenjiaxu.com/DensePhysNet/) Zhenjia Xu et al, RSS 2019. 
+
+## Others
+- [RoboNinja: Learning an Adaptive Cutting Policy for Multi-Material Objects.](https://roboninja.cs.columbia.edu/) Zhenjia Xu et al., RSS 2023.
 
 ## Simulation
 
