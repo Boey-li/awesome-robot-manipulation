@@ -79,6 +79,8 @@ A (self-learning :P) list of awesome learning-based robotic manipulation resourc
 
 ## Simulation
 
+- [Simulately](https://simulately.wiki/). 
+
 - [Nvidia FleX](https://gameworksdocs.nvidia.com/FleX/1.2/lib_docs/manual.html) | [PyFleX](https://github.com/YunzhuLi/PyFleX). Particle-based Simulation (PBD).
 - [Taichi](https://github.com/taichi-dev/taichi_elements). (MPM)
 - [SAPIEN](https://sapien.ucsd.edu/). 
